@@ -1,0 +1,2 @@
+#!/bin/bash
+find myDir -current working directory "*.html" -exec cp {} ~/parent working dir\
