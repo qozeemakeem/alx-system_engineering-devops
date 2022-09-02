@@ -1,2 +1,2 @@
 #!/bin/bash
-./8-firstdelete
+.rm -i tmp/my_first_directory/betty
