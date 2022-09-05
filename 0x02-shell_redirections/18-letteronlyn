@@ -1,0 +1,2 @@
+#!/bin/bash
+grep ^backup /etc/ssh/sshd_config

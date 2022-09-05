@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -regular files '*.js' -exec rm -f {} \
